@@ -1,7 +1,7 @@
 //
 // Created by nothrax on 23.11.20.
 //
-
+//muzu semka psat??
 #include "Swarm.h"
 
 Swarm::Swarm(SwarmOptions swarmOptions) {
